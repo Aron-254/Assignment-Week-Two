@@ -54,3 +54,10 @@ function main() {
 getAkanName(returnedDayIndex);
 }
 main();
+
+/*{
+  getUserInfo();
+  calculateDayIndex(cc,yy,mm,dd);
+  let returnedDayIndex=calculateDayIndex();
+  getAkanName(returnedDayIndex);
+}*/
