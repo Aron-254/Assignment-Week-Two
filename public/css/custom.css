@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(0, 255, 149);
+    background-color: rgb(207, 22, 22);
 }
 h1{
-    color: red ;
+    color: rgb(197, 92, 21) ;
 }
 h4{
-    color: rgb(222, 135, 161);
+    color: rgb(160, 26, 66);
 }
 img {
     border-radius: 50px;
