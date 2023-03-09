@@ -13,6 +13,7 @@ Its a  landing page about myself
 - HTML
 - CSS
 - README
+- JavaScript
 
 ## live Link 
 https://Aron-254.github.io/Assignment-Week-One
