@@ -50,16 +50,6 @@ function getAkanName(indexOfDay) {
   }
 }
 function main() {
-  let indexOfDay= getUserInfo()
-    getUserInfo();
-    let returnedDayIndex=calculateDayIndex(cc,yy,mm,dd);
-getAkanName(returnedDayIndex);
+  let indexOfDay=getUserInfo();
+  getAkanName(indexOfDay);
 }
-main();
-
-/*{
-  getUserInfo();
-  calculateDayIndex(cc,yy,mm,dd);
-  let returnedDayIndex=calculateDayIndex();
-  getAkanName(returnedDayIndex);
-}*/
