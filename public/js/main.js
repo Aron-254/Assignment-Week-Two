@@ -40,7 +40,8 @@ function calculateDayIndex(cc, yy, mm, dd) {
 }
 
 function getAkanName(indexOfDay) {
-  let indexOfDay= calculateDayIndex();
+  let indexOfDay= calculateDayIndex(cc,yy,mm,dd
+    );
   if (gender == "m") {
     userAkanName = MALE_NAMES[indexOfDay];
   } else if (gender == "f") {
@@ -53,3 +54,4 @@ function main() {
   let indexOfDay=getUserInfo();
   getAkanName(indexOfDay);
 }
+ 
