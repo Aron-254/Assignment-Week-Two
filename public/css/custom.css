@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(0, 255, 149);
+}
+h1{
+    color: red ;
+}
+h4{
+    color: rgb(222, 135, 161);
+}
+img {
+    border-radius: 50px;
+  }
+  h4{
+    text-underline-position: below;
+  }
