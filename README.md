@@ -1,11 +1,11 @@
-## Project name
+## AKAN NAME GENERATOR
 About me
 ## Author
 Ngetich Kipyegon Aron
 ## About this project
-Its a  landing page about myself
+This project takes up your birth day of the week and gives a Ghananian name based on that.
 ## Setup instructions
-- Git clone https://github.com/Aron-254/Assignment-Week-One/pulls
+- Git clone https://github.com/Aron-254/Assignment-Week-Two/pulls
 - Open the github account
 - Go live
 
@@ -16,6 +16,6 @@ Its a  landing page about myself
 - JavaScript
 
 ## live Link 
-https://Aron-254.github.io/Assignment-Week-One
+https://Aron-254.github.io/Assignment-Week-Two
 ## License
-(C)-2023 Aron Ngetich
+(C)-2023 Aron Ngetich JS
