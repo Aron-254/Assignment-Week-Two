@@ -54,6 +54,6 @@ function main() {
   let indexOfDay=getUserInfo();
   getAkanName(indexOfDay);
   console.log(userAkanName);
-  console.log(document);
+  console.log(document.getElementsById(#btn));
 }
  
