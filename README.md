@@ -1,5 +1,6 @@
 ## AKAN NAME GENERATOR
 About me
+Aron Kipyegon Ngetich is an Electrical engineer,He works with Safaricom PLC as field service engineer.
 ## Author
 Ngetich Kipyegon Aron
 ## About this project
