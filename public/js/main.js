@@ -54,4 +54,8 @@ function main(){
   let dayIndex=getUserInfo();
   getAkanName(dayIndex);
   console.log(userAkanName);
+  response = `Your Akan name is ${userAkanName}` 
+  document.getElementById('namedisplay').innerHTML=response;
 }
+
+ 
