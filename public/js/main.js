@@ -23,7 +23,7 @@ let mm=null;
 let dd=null;
 let gender= null;
 
-function getUserInfo() {
+function getUserInfo(){
   let birthYear = prompt("Enter your birth year");
   cc = parseInt(birthYear.slice(0, 2));
   yy = parseInt(birthYear.slice(2));
@@ -40,20 +40,18 @@ function calculateDayIndex(cc, yy, mm, dd) {
 }
 
 function getAkanName(indexOfDay) {
-  let indexOfDay= calculateDayIndex(cc,yy,mm,dd
+  let dayIndex= calculateDayIndex(cc,yy,mm,dd
     );
   if (gender == "m") {
-    userAkanName = MALE_NAMES[indexOfDay];
+    userAkanName = MALE_NAMES[dayIndex];
   } else if (gender == "f") {
-    userAkanName = FEMALE_NAMES[indexOfDay];
+    userAkanName = FEMALE_NAMES[dayIndex];
   } else {
     console.log("Gender is not known");
   }
 }
-function main() {
-  let indexOfDay=getUserInfo();
-  getAkanName(indexOfDay);
+function main(){
+  let dayIndex=getUserInfo();
+  getAkanName(dayIndex);
   console.log(userAkanName);
-  console.log(document.getElementsById(#btn));
 }
- 
